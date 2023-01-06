@@ -281,5 +281,10 @@ a {
 .rounded-15 {
     border-radius: 15px;
 }
-
+ .text-white{
+    color: #fff;
+ }
+ .text-black{
+    color: black;
+ }
 /* !SECTION */
